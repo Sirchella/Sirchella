@@ -1,6 +1,6 @@
 - 👋 Hi, Aja chella 
 - 👀 I’m interested in software developement
-- 🌱 I’m currently learning C++ and other programming languages 
+- 🌱 I’m currently learning software enginnering
 - 💞 I am hoping to learn more from other developers
 - 📫 How to reach me ajachella.asamba@ictuniversity.edu.cm
 - 😄 Pronouns: call me Chella😅
