@@ -1,8 +1,10 @@
 - 👋 Hi, Aja chella 
 - 👀 I’m interested in software developement
-- 🌱 I’m currently learning software enginnering
+- 🌱 I’m currently learning software enginnering and cyber security.
 - 💞 I am hoping to learn more from other developers
 - 📫 How to reach me ajachella.asamba@ictuniversity.edu.cm
+- 📫 ajachellaasamba@gmail.com
+- 📫 greatuno.chella@gmail.com
 - 😄 Pronouns: call me Chella😅
 - ⚡ Fun fact: fun to work with🥂
 
